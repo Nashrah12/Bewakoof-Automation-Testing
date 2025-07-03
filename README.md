@@ -87,11 +87,3 @@ A high-level summary of test execution, highlighting passed, failed, and skipped
 This project successfully automated the testing of the Bewakoof website using Cypress. The test suite ensures that the website remains stable and user-friendly across different devices. The implementation of Page Object Model (POM) makes test scripts modular and maintainable.
 
 The identified bugs have been documented for the development team to address. The provided RTM, Test Plan, and reports ensure transparency and thorough testing coverage.
-
-### 🚀 Future Enhancements
-
-- Expanding test coverage for non-functional testing, including performance and security.
-
-- Integrating test execution into a CI/CD pipeline for automated testing with every build.
-
-- Enhancing test scenarios to cover edge cases and complex workflows.
