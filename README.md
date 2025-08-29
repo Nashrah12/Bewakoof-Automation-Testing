@@ -1,5 +1,4 @@
 ## Bewakoof Website Automation Testing Project
-<img width="1861" height="1018" alt="Screenshot 2025-08-29 163814" src="https://github.com/user-attachments/assets/83d6f357-005d-4942-ab9a-a8013c209285" />
 
 
 ### 📌 Project Overview
